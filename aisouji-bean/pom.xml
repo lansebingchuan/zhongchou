@@ -6,4 +6,5 @@
   	<artifactId>aisouji-parent</artifactId>
   	<version>0.0.1-SNAPSHOT</version>
   </parent>
+  <!--我是一个注释-->
 </project>
